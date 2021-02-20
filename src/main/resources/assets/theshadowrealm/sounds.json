@@ -1,0 +1,47 @@
+{
+  "yelowhurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "theshadowrealm:yelowhurt",
+        "stream": false
+      }
+    ]
+  },
+  "yelowdeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "theshadowrealm:yelowdeath",
+        "stream": false
+      }
+    ]
+  },
+  "shadegremlindie": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "theshadowrealm:shadegremlindie",
+        "stream": false
+      }
+    ]
+  },
+  "shadegremlinhurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "theshadowrealm:shadegremlinhurt",
+        "stream": false
+      }
+    ]
+  },
+  "shadegremlinlive": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "theshadowrealm:shadegremlinlive",
+        "stream": false
+      }
+    ]
+  }
+}
